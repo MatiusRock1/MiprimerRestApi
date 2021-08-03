@@ -1,0 +1,26 @@
+{
+  "name": "miprimerapi",
+  "version": "1.0.0",
+  "description": "esta es mi priemer api",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiusRock1/MiprimerRestApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiusRock1/MiprimerRestApi/issues"
+  },
+  "homepage": "https://github.com/MatiusRock1/MiprimerRestApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
